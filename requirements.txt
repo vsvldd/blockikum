@@ -1,0 +1,21 @@
+Django==4.2.17
+django-bootstrap5==24.3
+Pillow==11.0.0
+asgiref==3.8.1
+sqlparse==0.5.3
+pytz==2024.2
+
+# Для тестирования
+pytest==8.3.4
+pytest-django==4.9.0
+Faker==33.1.0
+mixer==7.2.2
+beautifulsoup4==4.12.3
+
+# Линтеры
+flake8==7.1.1
+flake8-docstrings==1.7.0
+pep8-naming==0.14.1
+
+# Утилиты
+python-dateutil==2.9.0
